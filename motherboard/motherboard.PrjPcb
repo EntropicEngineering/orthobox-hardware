@@ -140,6 +140,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSRPSJKX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for motherboard\Design Rule Check - motherboard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

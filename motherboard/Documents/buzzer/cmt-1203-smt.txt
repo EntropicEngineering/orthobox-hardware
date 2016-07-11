@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-11022016-090315";"";
+"REFERENCE";"CMT-1203-SMT";"";
+"TraceParts.PartTitle";"CMT-1203-SMT - 12 mm, 25 V, 81 dB, Surface Mount (SMT), Piezo Audio Transducer Buzzer, RoHS Compliant";"";
+"TraceParts.InstanceId";"10-11022016-0903151F0RV6QKEGVTTNUZ4O44EIJJO";"";
+"DESIGN";"12 mm, 25 V, 81 dB, Surface Mount (SMT), Piezo Audio Transducer Buzzer";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:10-11022016-090315";"";
