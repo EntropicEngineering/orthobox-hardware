@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [peggy-optical-board.PrjPcb]
+   Generated File[peggy-optical-board.TXT]
+   Generated File[peggy-optical-board.LDP]
+   Generated File[peggy-optical-board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:47:40 PM On 7/11/2016

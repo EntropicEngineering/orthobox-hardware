@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [pokey-switch-board.PrjPcb]
+   Generated File[pokey-switch-board.TXT]
+   Generated File[pokey-switch-board.LDP]
+   Generated File[pokey-switch-board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:48:16 PM On 7/11/2016

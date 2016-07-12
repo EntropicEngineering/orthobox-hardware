@@ -1,0 +1,111 @@
+*************************************************************
+FileName = peggy-optical-board.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : peggy-optical-board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : peggy-optical-board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : peggy-optical-board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D13
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : peggy-optical-board.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : peggy-optical-board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : peggy-optical-board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : peggy-optical-board.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D25
+*************************************************************
+
