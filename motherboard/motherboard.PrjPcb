@@ -141,66 +141,70 @@ GenerateClassCluster=0
 DocumentUniqueId=GSRPSJKX
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for motherboard\Design Rule Check - motherboard.html
+DocumentPath=Project Outputs for motherboard\Board Information - motherboard.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for motherboard\motherboard.BOM
+DocumentPath=Project Outputs for motherboard\Design Rule Check - motherboard.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for motherboard\motherboard.CSV
+DocumentPath=Project Outputs for motherboard\motherboard.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for motherboard\motherboard.DRR
+DocumentPath=Project Outputs for motherboard\motherboard.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for motherboard\motherboard.EXTREP
+DocumentPath=Project Outputs for motherboard\motherboard.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for motherboard\motherboard.GBL
+DocumentPath=Project Outputs for motherboard\motherboard.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for motherboard\motherboard.GBO
+DocumentPath=Project Outputs for motherboard\motherboard.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for motherboard\motherboard.GBS
+DocumentPath=Project Outputs for motherboard\motherboard.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for motherboard\motherboard.GKO
+DocumentPath=Project Outputs for motherboard\motherboard.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for motherboard\motherboard.GTL
+DocumentPath=Project Outputs for motherboard\motherboard.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for motherboard\motherboard.GTO
+DocumentPath=Project Outputs for motherboard\motherboard.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for motherboard\motherboard.GTS
+DocumentPath=Project Outputs for motherboard\motherboard.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for motherboard\motherboard.LDP
+DocumentPath=Project Outputs for motherboard\motherboard.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for motherboard\motherboard.REP
+DocumentPath=Project Outputs for motherboard\motherboard.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for motherboard\motherboard.RUL
+DocumentPath=Project Outputs for motherboard\motherboard.REP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for motherboard\motherboard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=Project Outputs for motherboard\motherboard.TXT
 DItemRevisionGUID=
 

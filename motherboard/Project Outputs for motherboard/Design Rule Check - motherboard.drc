@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matthewpang\Documents\GitHub\orthobox-hardware\motherboard\motherboard.PcbDoc
 Date     : 7/12/2016
-Time     : 1:55:49 AM
+Time     : 11:29:17 AM
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -50,4 +50,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:02

@@ -1,0 +1,183 @@
+Board Information Report
+Filename     : C:\Users\matthewpang\Documents\GitHub\orthobox-hardware\motherboard\motherboard.PcbDoc
+Date         : 7/12/2016
+Time         : 11:22:04 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3000milsx3500mils
+    Components on board, 54
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 164
+    Connections routed, 164
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 232, 0, 596, 0, 0, 27, 0
+    Bottom Layer, 0, 0, 0, 156, 0, 0, 1, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 17
+    Mechanical 13, 3, 0, 0, 148, 0, 0, 0, 51
+    Mechanical 15, 0, 0, 0, 230, 0, 0, 0, 0
+    Multi-Layer, 0, 28, 84, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 8, 0, 0, 82, 127, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 18, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 4, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 84
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 72, 0
+    62.992mils, 1, 0
+    70.866mils, 1, 0
+count : 3
+
+Plated Hole Size, Pads, Vias
+    0mils, 152, 0
+    18mils, 0, 79
+    28mils, 0, 5
+    36.221mils, 4, 0
+    43.307mils, 10, 0
+    51.181mils, 6, 0
+    90.551mils, 2, 0
+    144mils, 4, 0
+count : 8
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -70.866mils, 1
+    -62.992mils, 1
+    20mils, 79
+    22mils, 5
+    30.001mils, 4
+    31mils, 4
+    31.693mils, 10
+    33.819mils, 6
+    50.449mils, 2
+count : 9
+
+Mid Layer Annular Ring Size, Count
+    -70.866mils, 1
+    -62.992mils, 1
+    20mils, 79
+    22mils, 5
+    30.001mils, 4
+    31mils, 4
+    31.693mils, 10
+    33.819mils, 6
+    50.449mils, 2
+count : 9
+
+Bottom Layer Annular Ring Size, Count
+    -70.866mils, 1
+    -62.992mils, 1
+    20mils, 79
+    22mils, 5
+    30.001mils, 4
+    31mils, 4
+    31.693mils, 10
+    33.819mils, 6
+    50.449mils, 2
+count : 9
+
+Pad Solder Mask, Count
+    4mils, 260
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 260
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    30mils, 260
+count : 1
+
+Pad Relief Conductor Width, Count
+    20mils, 260
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 260
+count : 1
+
+Pad Relief Entries, Count
+    4, 260
+count : 1
+
+Via Solder Mask, Count
+    4mils, 84
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    30mils, 84
+count : 1
+
+Track Width, Count
+    1.969mils, 148
+    3.937mils, 234
+    7.874mils, 14
+    10mils, 26
+    12mils, 751
+    15mils, 38
+    20mils, 5
+count : 7
+
+Arc Line Width, Count
+    3.937mils, 6
+    9.843mils, 3
+    23.622mils, 2
+count : 3
+
+Arc Radius, Count
+    1.969mils, 3
+    4.921mils, 3
+    11.811mils, 2
+    19.685mils, 3
+count : 4
+
+Arc Degrees, Count
+    360, 11
+count : 1
+
+Text Height, Count
+    39.37mils, 8
+    59.055mils, 11
+    60mils, 108
+count : 3
+
+Text Width, Count
+    10mils, 126
+    39.37mils, 1
+count : 2
+
+Net Track Width, Count
+    6mils, 54
+    10mils, 4
+count : 2
+
+Net Via Size, Count
+    38mils, 58
+count : 1

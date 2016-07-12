@@ -1,11 +1,12 @@
-Output: Simple BOM
-Type  : SimpleBOM
-From  : Variant [[No Variations]] of Project [motherboard.PrjPcb]
-   Generated File[motherboard.BOM]
-   Generated File[motherboard.CSV]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [motherboard.PrjPcb]
+   Generated File[motherboard.TXT]
+   Generated File[motherboard.LDP]
+   Generated File[motherboard.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:52:51 PM On 7/11/2016
+Finished Output Generation At 11:29:54 AM On 7/12/2016

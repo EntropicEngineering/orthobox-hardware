@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: motherboard.PcbDoc   7/11/2016  9:45:41 PM
+NCDrill File Report For: motherboard.PcbDoc   7/12/2016  11:29:54 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : motherboard.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      18mil (0.457mm)                                           Round             77        PTH        20.82inch (528.90mm)
+T1      18mil (0.457mm)                                           Round             79        PTH        24.70inch (627.42mm)
 T2      28mil (0.711mm)                                           Round             5         PTH        1.25inch (31.74mm)
 T3      36mil (0.919mm)         +/-3mil (0.08mm)                  Round             4         PTH        0.26inch (6.50mm)
 T4      43mil (1.1mm)           +4mil (0.1mm)/-0mil (0mm)         Round             10        PTH        0.90inch (22.86mm)
@@ -17,6 +17,6 @@ T7      144mil (3.658mm)                                          Round         
 T8      63mil (1.6mm)                                             Round             1         NPTH       0.00inch (0.00mm)
 T9      71mil (1.801mm)                                           Round             1         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              110
+Totals                                                                              112
 
 Total Processing Time (hh:mm:ss) : 00:00:00
