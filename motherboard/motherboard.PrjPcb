@@ -1236,7 +1236,6 @@ PartTypes=0
 
 [ToDoManager]
 ProjectToDo1=Name=Increase the size of the mounting hole pads|UID=USNTWTKR
-ProjectToDo2=Name=Add silkscreen to the screw terminal header connector|UID=DORHEITW
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
