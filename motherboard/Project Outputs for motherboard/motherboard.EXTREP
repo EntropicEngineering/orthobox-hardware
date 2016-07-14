@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: motherboard.GBR   7/12/2016  11:29:31 AM
+Gerber File Extension Report For: motherboard.GBR   7/12/2016  5:45:23 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -9,8 +9,10 @@ Layer Extension     Layer Description
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
+.GTP                Top Paste                               
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
