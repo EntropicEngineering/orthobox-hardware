@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: motherboard.GBR   7/12/2016  5:45:23 PM
+Gerber File Extension Report For: motherboard.GBR   7/14/2016  12:37:06 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,4 +15,7 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
 ------------------------------------------------------------------------------------------
