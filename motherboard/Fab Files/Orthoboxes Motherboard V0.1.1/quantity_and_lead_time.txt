@@ -1,0 +1,17 @@
+Please Quote The Following Quantities and Times :
+
+Quantities 
+22 assemblies
+44 assemblies
+66 assemblies
+88 assemblies
+110 assemblies
+220 assemblies
+
+Lead Time
+3 days
+1 week
+2 weeks
+3 weeks 
+4 weeks
+5 weeks

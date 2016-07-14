@@ -1,0 +1,57 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J4         FFC_CONNECTOR     2935.118mil   3006.417mil       2880mil    3055.63mil       2880mil    3055.63mil  T        270.00 POK-TR         
+J7         FFC_CONNECTOR     2264.882mil   3534.213mil       2320mil       3485mil       2320mil       3485mil  T         90.00 PEG-L          
+J3         FFC_CONNECTOR     2485.118mil   3006.417mil       2430mil    3055.63mil       2430mil    3055.63mil  T        270.00 POK-TM         
+U1         44ML_N                2645mil       2055mil       2645mil       2055mil   2422.559mil    2212.48mil  T        360.00 ATmega32U4-AU  
+Z2         RESC1608X06N          1540mil       2150mil       1540mil       2150mil   1565.591mil       2150mil  T        180.00 CG0603MLC      
+Z1         RESC1608X06N          1540mil       2455mil       1540mil       2455mil   1514.409mil       2455mil  T          0.00 CG0603MLC      
+XTAL1      XTAL              2842.008mil       1420mil   3029.016mil       1420mil   3029.016mil       1420mil  T        180.00 9C-16.000MEEJ-T
+U3         SOIC127P1030X265-24N       3515mil       2105mil       3515mil       2105mil   3327.992mil       2380mil  T        360.00 74HC4067 SOIC  
+U2         MUA08A_N              2460mil       4035mil       2460mil       4035mil   2542.677mil   3996.614mil  T        180.00 LMV358MMX      
+RST1       SWITCH             1267.52mil   2808.583mil    1267.52mil   2808.583mil   1110.039mil   2897.165mil  T        180.00 B3FS-1010P     
+R13        RESC2012X07N_SAMSUNG       1735mil       3275mil       1735mil       3275mil   1769.449mil       3275mil  T        180.00 10k            
+R12        RESC2012X07N_SAMSUNG       3845mil       2015mil       3845mil       2015mil       3845mil   1980.551mil  T         90.00 10k            
+R11        RESC2012X07N_SAMSUNG       1730mil       3460mil       1730mil       3460mil   1764.449mil       3460mil  T        180.00 10k            
+R10        RESC2012X07N_SAMSUNG       1580mil       2915mil       1580mil       2915mil   1545.551mil       2915mil  T        360.00 10k            
+R9         RESC2012X07N_SAMSUNG       2810mil       4145mil       2810mil       4145mil   2844.449mil       4145mil  T        180.00 560R           
+R8         RESC2012X07N_SAMSUNG       2810mil       3985mil       2810mil       3985mil   2844.449mil       3985mil  T        180.00 560R           
+R7         RESC2012X07N_SAMSUNG       2235mil       4055mil       2235mil       4055mil       2235mil   4089.449mil  T        270.00 100R           
+R6         RESC2012X07N_SAMSUNG       1435mil       4055mil       1435mil       4055mil       1435mil   4020.551mil  T         90.00 1K             
+R5         RESC2012X07N_SAMSUNG       1635mil   4055.551mil       1635mil   4055.551mil       1635mil   4021.102mil  T         90.00 180R           
+R4         RESC2012X07N          1550mil       2250mil       1550mil       2250mil   1515.551mil       2250mil  T          0.00 22R            
+R3         RESC2012X07N_SAMSUNG       1835mil   4055.551mil       1835mil   4055.551mil       1835mil   4021.102mil  T         90.00 1K             
+R2         RESC2012X07N          1550mil       2355mil       1550mil       2355mil   1515.551mil       2355mil  T          0.00 22R            
+R1         RESC2012X07N_SAMSUNG       2035mil       4055mil       2035mil       4055mil       2035mil   4020.551mil  T         90.00 180R           
+D2         0603LED               2685mil   4370.472mil       2685mil       4400mil       2685mil       4400mil  T        270.00 PWR            
+D3         0603LED               2495mil   4370.472mil       2495mil       4400mil       2495mil       4400mil  T        270.00 PD5            
+L3         INDC2012X11N          1725mil       1845mil       1725mil       1845mil   1690.158mil       1845mil  T          0.00 MH2029-300Y    
+L2         INDC2012X11N          2140mil   1860.158mil       2140mil   1860.158mil       2140mil   1825.315mil  T         90.00 MH2029-300Y    
+L1         INDC2012X11N          1290mil       1860mil       1290mil       1860mil       1290mil   1894.842mil  T        270.00 MH2029-300Y    
+J8         FFC_CONNECTOR     2695.118mil   3528.583mil   2750.236mil    3479.37mil   2750.236mil    3479.37mil  T         90.00 PEG-R          
+J6         FFC_CONNECTOR     3810.118mil   3006.417mil       3755mil    3055.63mil       3755mil    3055.63mil  T        270.00 POK-BR         
+J5         FFC_CONNECTOR     3385.118mil   3006.417mil       3330mil    3055.63mil       3330mil    3055.63mil  T        270.00 POK-BL         
+J2         FFC_CONNECTOR     2060.118mil   3006.417mil       2005mil    3055.63mil       2005mil    3055.63mil  T        270.00 POK-TL         
+J1         CONN_10_POS           1785mil       4315mil       2235mil       4315mil       2235mil       4315mil  T        180.00 CONN 10 POS    
+ICSP1      3X2_PIN_HEADER        1580mil       1180mil       1680mil       1230mil       1680mil       1230mil  T        270.00 67997-206HLF   
+F1         FUSE_MF-MSMF050       1545mil   1927.677mil       1545mil       1845mil       1545mil       1845mil  T         90.00 MF-MSMF050     
+D1         DIOC3215X09N          1580mil       2800mil       1580mil       2800mil   1524.882mil       2800mil  T        360.00 Diode 100V 150mA
+C15        CAPC2012X09N          1580mil       2680mil       1580mil       2680mil   1613.465mil       2680mil  T        180.00 100nF          
+C14        CAPC2012X09N          1580mil       2570mil       1580mil       2570mil   1613.465mil       2570mil  T        180.00 100nF          
+C13        CAPC2012X09N          3680mil       2515mil       3680mil       2515mil   3646.535mil       2515mil  T        360.00 100nF          
+C12        CAPC2012X09N      1723.465mil       1625mil   1723.465mil       1625mil   1756.929mil       1625mil  T        180.00 100nF          
+C11        CAPC2012X14N          1725mil       1735mil       1725mil       1735mil   1758.465mil       1735mil  T        180.00 10uF           
+C10        CAPC2012X09N      2463.465mil       3890mil   2463.465mil       3890mil   2496.929mil       3890mil  T        180.00 100nF          
+C9         CAPC2012X08N          3070mil       1245mil       3070mil       1245mil   3103.465mil       1245mil  T        180.00 CAP 18pF       
+C8         CAPC2012X08N      2603.465mil       1240mil   2603.465mil       1240mil       2570mil       1240mil  T        360.00 CAP 18pF       
+C7         CAPC2012X09N      2376.535mil       2510mil   2376.535mil       2510mil   2343.071mil       2510mil  T          0.00 100nF          
+C6         CAPC2012X14N          2140mil       2015mil       2140mil       2015mil       2140mil   2048.465mil  T        270.00 1uF            
+C5         CAPC2012X09N          3030mil   1776.535mil       3030mil   1776.535mil       3030mil       1810mil  T        270.00 100nF          
+C4         CAPC2012X09N      2828.465mil       2510mil   2828.465mil       2510mil   2861.929mil       2510mil  T        180.00 100nF          
+C3         CAPC2012X09N          2480mil       1535mil       2480mil       1535mil   2446.535mil       1535mil  T          0.00 100nF          
+C2         CAPC2012X09N          2150mil   2251.535mil       2150mil   2251.535mil       2150mil       2285mil  T        270.00 100nF          
+C1         CAPC2012X09N      2523.465mil       2510mil   2523.465mil       2510mil       2490mil       2510mil  T        360.00 100nF          
+BUZZ1      BUZZER                3306mil       4073mil       3306mil       4073mil    3542.22mil       4073mil  T        270.00 CMT-1203-SMT-TR
+USB1       USB_B_RECEPTACLE   1242.716mil   2246.108mil       1150mil     2009.1mil       1150mil     2009.1mil  T        270.00 USB            
+J9         BARREL_POWER_CONNECTOR   1316.929mil     3322.8mil       1000mil     3322.8mil    1196.85mil   3547.209mil  T          0.00 Barrel Connector
+

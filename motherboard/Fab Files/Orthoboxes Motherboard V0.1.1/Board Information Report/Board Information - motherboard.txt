@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\matthewpang\Documents\GitHub\orthobox-hardware\motherboard\motherboard.PcbDoc
-Date         : 7/12/2016
-Time         : 11:22:04 AM
+Date         : 7/14/2016
+Time         : 1:47:59 PM
 Time Elapsed : 00:00:00
 
 General
@@ -17,17 +17,17 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 232, 0, 596, 0, 0, 27, 0
-    Bottom Layer, 0, 0, 0, 156, 0, 0, 1, 0
+    Top Layer, 0, 232, 0, 596, 0, 0, 28, 0
+    Bottom Layer, 0, 0, 0, 152, 0, 0, 1, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 17
     Mechanical 13, 3, 0, 0, 148, 0, 0, 0, 51
     Mechanical 15, 0, 0, 0, 230, 0, 0, 0, 0
-    Multi-Layer, 0, 28, 84, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 28, 85, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 8, 0, 0, 82, 127, 0, 0, 0
+    Top Overlay, 8, 0, 0, 82, 135, 0, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 18, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 10, 0, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 4, 0, 0, 0, 0
@@ -35,7 +35,7 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
 count : 15
 
 Drill Pairs, Vias
-    Top Layer - Bottom Layer, 84
+    Top Layer - Bottom Layer, 85
 count : 1
 
 Non-Plated Hole Size, Pads, Vias
@@ -46,14 +46,13 @@ count : 3
 
 Plated Hole Size, Pads, Vias
     0mils, 152, 0
-    18mils, 0, 79
-    28mils, 0, 5
+    20mils, 0, 85
     36.221mils, 4, 0
     43.307mils, 10, 0
     51.181mils, 6, 0
     90.551mils, 2, 0
     144mils, 4, 0
-count : 8
+count : 7
 
 Non-Plated Slot Size / Length, Pads
 count : 0
@@ -70,37 +69,37 @@ count : 0
 Top Layer Annular Ring Size, Count
     -70.866mils, 1
     -62.992mils, 1
-    20mils, 79
-    22mils, 5
+    15mils, 85
     30.001mils, 4
-    31mils, 4
+    31mils, 1
     31.693mils, 10
     33.819mils, 6
     50.449mils, 2
+    56mils, 3
 count : 9
 
 Mid Layer Annular Ring Size, Count
     -70.866mils, 1
     -62.992mils, 1
-    20mils, 79
-    22mils, 5
+    15mils, 85
     30.001mils, 4
-    31mils, 4
+    31mils, 1
     31.693mils, 10
     33.819mils, 6
     50.449mils, 2
+    56mils, 3
 count : 9
 
 Bottom Layer Annular Ring Size, Count
     -70.866mils, 1
     -62.992mils, 1
-    20mils, 79
-    22mils, 5
+    15mils, 85
     30.001mils, 4
-    31mils, 4
+    31mils, 1
     31.693mils, 10
     33.819mils, 6
     50.449mils, 2
+    56mils, 3
 count : 9
 
 Pad Solder Mask, Count
@@ -128,22 +127,23 @@ Pad Relief Entries, Count
 count : 1
 
 Via Solder Mask, Count
-    4mils, 84
+    4mils, 85
 count : 1
 
 Via Pwr/Gnd Expansion, Count
-    30mils, 84
+    30mils, 85
 count : 1
 
 Track Width, Count
+    1mils, 4
     1.969mils, 148
     3.937mils, 234
     7.874mils, 14
     10mils, 26
-    12mils, 751
+    12mils, 743
     15mils, 38
     20mils, 5
-count : 7
+count : 8
 
 Arc Line Width, Count
     3.937mils, 6
@@ -164,12 +164,14 @@ count : 1
 
 Text Height, Count
     39.37mils, 8
+    50mils, 8
     59.055mils, 11
     60mils, 108
-count : 3
+    100mils, 10
+count : 5
 
 Text Width, Count
-    10mils, 126
+    10mils, 144
     39.37mils, 1
 count : 2
 
