@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matthewpang\Documents\GitHub\orthobox-hardware\pokey-switch-board\pokey-switch-board.PcbDoc
 Date     : 7/25/2016
-Time     : 7:18:49 AM
+Time     : 7:22:36 AM
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
@@ -50,4 +50,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
