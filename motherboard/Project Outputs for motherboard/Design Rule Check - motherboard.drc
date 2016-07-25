@@ -1,15 +1,15 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\matthewpang\Documents\GitHub\orthobox-hardware\peggy-optical-board\peggy-optical-board.PcbDoc
+PCB File : C:\Users\matthewpang\Documents\GitHub\orthobox-hardware\motherboard\motherboard.PcbDoc
 Date     : 7/25/2016
-Time     : 7:19:27 AM
+Time     : 7:19:38 AM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=30mil) (Preferred=10mil) (InNetClass('All Nets'))
+Processing Rule : Width Constraint (Min=6mil) (Max=30mil) (Preferred=6mil) (InNetClass('All Nets'))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=15mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=20mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -50,4 +50,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

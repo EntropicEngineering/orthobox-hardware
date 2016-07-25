@@ -1,9 +1,21 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [pokey-switch-board.PrjPcb]
+   Generated File[pokey-switch-board.GTL]
+   Generated File[pokey-switch-board.GBL]
+   Generated File[pokey-switch-board.GTO]
+   Generated File[pokey-switch-board.GTP]
+   Generated File[pokey-switch-board.GTS]
+   Generated File[pokey-switch-board.GBS]
+   Generated File[pokey-switch-board.GBP]
+   Generated File[pokey-switch-board.GBO]
+   Generated File[pokey-switch-board.GKO]
+   Generated File[pokey-switch-board.RUL]
+   Generated File[pokey-switch-board.EXTREP]
+   Generated File[pokey-switch-board.REP]
 
 
-Files Generated   : 0
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 6:20:17 AM On 7/25/2016
+Finished Output Generation At 7:22:10 AM On 7/25/2016
