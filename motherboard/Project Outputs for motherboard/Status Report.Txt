@@ -1,10 +1,26 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [motherboard.PrjPcb]
-   Generated File[Pick Place for motherboard.txt]
+   Generated File[motherboard.GTL]
+   Generated File[motherboard.GBL]
+   Generated File[motherboard.GTO]
+   Generated File[motherboard.GTP]
+   Generated File[motherboard.GTS]
+   Generated File[motherboard.GBS]
+   Generated File[motherboard.GBP]
+   Generated File[motherboard.GBO]
+   Generated File[motherboard.GKO]
+   Generated File[motherboard.GM1]
+   Generated File[motherboard.GM13]
+   Generated File[motherboard.GM15]
+   Generated File[motherboard.GD1]
+   Generated File[motherboard.GG1]
+   Generated File[motherboard.RUL]
+   Generated File[motherboard.EXTREP]
+   Generated File[motherboard.REP]
 
 
-Files Generated   : 1
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 9:42:24 AM On 7/25/2016
+Finished Output Generation At 9:45:17 AM On 7/25/2016
