@@ -1,9 +1,9 @@
-Output: Report Board Stack
-Type  : Report Board Stack
-From  : Project [motherboard.PrjPcb]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [motherboard.PrjPcb]
 
 
 Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 1:47:23 PM On 7/14/2016
+Finished Output Generation At 6:19:47 AM On 7/25/2016

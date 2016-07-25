@@ -1,0 +1,13 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R3         RESC2012X07N_SAMSUNG       1190mil       1495mil       1190mil       1495mil   1155.551mil       1495mil  T          0.00 180R           
+R2         RESC2012X07N_SAMSUNG       1190mil       2265mil       1190mil       2265mil   1155.551mil       2265mil  T          0.00 180R           
+R1         RESC2012X07N_SAMSUNG       1200mil       2980mil       1200mil       2980mil   1165.551mil       2980mil  T        360.00 180R           
+J1         MOLEX_503480-0600       1400mil    1321.85mil   1319.685mil   1269.685mil   1350.787mil   1374.016mil  T          0.00 5034800600     
+Q1         OPB606A           1399.996mil     3153.7mil     1443.5mil     3203.7mil     1443.5mil     3203.7mil  B        180.00 OPB606A        
+Q3         OPB606A           1399.996mil     1593.7mil     1443.5mil     1643.7mil     1443.5mil     1643.7mil  B        180.00 OPB606A        
+Q2         OPB606A           1399.996mil     2373.7mil     1443.5mil     2423.7mil     1443.5mil     2423.7mil  B        180.00 OPB606A        
+R4         RESC2012X07N_SAMSUNG       1575mil       2980mil       1575mil       2980mil   1609.449mil       2980mil  T        180.00 10k            
+R5         RESC2012X07N_SAMSUNG       1200mil       2470mil       1200mil       2470mil   1234.449mil       2470mil  T        180.00 10k            
+R6         RESC2012X07N_SAMSUNG       1190mil       1695mil       1190mil       1695mil   1224.449mil       1695mil  T        180.00 10k            
+
