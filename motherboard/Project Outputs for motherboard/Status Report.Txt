@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [motherboard.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [motherboard.PrjPcb]
+   Generated File[motherboard.TXT]
+   Generated File[motherboard.LDP]
+   Generated File[motherboard.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 6:19:47 AM On 7/25/2016
+Finished Output Generation At 7:01:22 AM On 7/25/2016
