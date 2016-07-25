@@ -1297,13 +1297,13 @@ UpdateVariants=1
 PartTypes=0
 
 [ToDoManager]
-ProjectToDo1=Name=Increase the size of the mounting hole pads|UID=USNTWTKR
+ProjectToDo1=Name=Increase the size of the mounting hole pads|State=1|UID=USNTWTKR
 ProjectToDo2=Name=Add series resistor to RESET, possibly add ESD protection to RESET|UID=NAWEGPOO
 ProjectToDo3=Name=Do not Fit switch into production version|UID=DWYROVGS
 ProjectToDo4=Name=remove op-amp in production version~1|UID=WMSMWFWN
 ProjectToDo5=Name=move to more robust barrel jack|UID=QSHSHOUD
 ProjectToDo6=Name=Add a resistor divider to the unused pin of peggy to identify it|UID=INRPHEBE
-ProjectToDo7=Name=move the resistors down from under J1 and add silk screen with wire colors~1|UID=VYLIKUAX
+ProjectToDo7=Name=move the resistors down from under J1 and add silk screen with wire colors~1|State=1|UID=VYLIKUAX
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
