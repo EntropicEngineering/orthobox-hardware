@@ -1,10 +1,12 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [peggy-optical-board.PrjPcb]
-   Generated File[Pick Place for peggy-optical-board.txt]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [peggy-optical-board.PrjPcb]
+   Generated File[peggy-optical-board.TXT]
+   Generated File[peggy-optical-board.LDP]
+   Generated File[peggy-optical-board.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:13:54 AM On 7/25/2016
+Finished Output Generation At 8:08:14 AM On 7/25/2016
