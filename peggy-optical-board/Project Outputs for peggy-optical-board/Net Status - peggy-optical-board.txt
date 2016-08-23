@@ -1,0 +1,16 @@
+Net Status Report
+Filename     : C:\Users\matthewpang\Documents\GitHub\orthobox-hardware\peggy-optical-board\peggy-optical-board.PcbDoc
+Date         : 8/23/2016
+Time         : 2:40:41 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    5V, Signal Layers Only, 2259.268mils
+    GND, Signal Layers Only, 481.014mils
+    NetJ1_1, Signal Layers Only, 2974.585mils
+    NetJ1_3, Signal Layers Only, 1638.707mils
+    NetJ1_5, Signal Layers Only, 1045.551mils
+    NetQ1_3, Signal Layers Only, 219.822mils
+    NetQ2_3, Signal Layers Only, 184.563mils
+    NetQ3_3, Signal Layers Only, 152.216mils
+count : 8
