@@ -8,10 +8,10 @@ PC Board - BAREBOARD MANUFACTURE REQUIRED
 2) 0.700" x 2.425" dimensions
 3) 64.8mil finished thickness
 4) FR 4 Material
-5) ENIG Finish
+5) HASL Finish
 6) 1 oz outer layers
-7) White Solder Mask , Both Sides, Standard Type ,*FULLY TENT VIAS ON BOTH SIDES* 
-8) Black Silkscreen , Both Sides,
+7) Black Solder Mask , Both Sides, Standard Type ,*FULLY TENT VIAS ON BOTH SIDES* 
+8) White Silkscreen , Both Sides,
 9) Stackup included 
 10) Board Outline included in Keep-Out Layer .GKO
 11) GERBER & DRILL files included in GERBER folder - note NC Drill file is .txt format
